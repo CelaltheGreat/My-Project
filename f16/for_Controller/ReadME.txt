@@ -1,0 +1,1 @@
+To visualize, activate the visualization block. But this may slow down the simulation.
